@@ -334,4 +334,4 @@ GitFlow 有独立的分支，让发布迭代过程更流畅。
 在 GitFlow 基础上， 充分利用了 Git 的 Fork 和 pull request 的功能以达到代码审核的目的。 
 安全可靠地管理大团队的开发者
 ```
- add something
+ add something useless
